@@ -1,0 +1,1 @@
+# skillfactory-module-c2-veredchenko
